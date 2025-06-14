@@ -20,4 +20,4 @@ This repository contains two projects submitted as part of the **MITS Virtual In
 
 - Internship: MITS Virtual Internship 2025
 - Domain: Artificial Intelligence
-- Intern: Cristein Roger
+- Intern: Raj Dubey
