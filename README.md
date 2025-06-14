@@ -1,27 +1,23 @@
-# Fake News Detection using Machine Learning
+# 🧠 MITS Easy Level Internship Projects
 
-This project uses Machine Learning to classify whether a news headline is real or fake.
+This repository contains two projects submitted as part of the **MITS Virtual Internship** under the **Easy Level category**.
 
-## 💡 Features:
-- Text preprocessing with TF-IDF Vectorization
-- Binary classification using Logistic Regression
-- Accuracy ~94%
-- Custom real-time input prediction
+## 📁 Projects Included
 
-## 📊 Dataset:
-- Fake.csv:  news labeled as fake
-- True.csv:  news labeled as real
-- Source: [Fake and Real News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+### 1. Sentiment Analysis
+- 📄 File: `Sentiment_Analysis/sentiment_analysis.ipynb`
+- 🔍 Description: Analyzes user input and classifies it as Positive, Negative, or Neutral using NLP.
+- 🧪 Tools Used: Python, TextBlob, Gradio
 
-## 🔧 Tech Stack:
-- Python
-- Pandas
-- Scikit-learn (sklearn)
-- TF-IDF
+### 2. Fake News Detection
+- 📄 File: `Fake_News_Detection/fake_news_detection.ipynb`
+- 🔍 Description: Identifies whether a news article is real or fake using logistic regression.
+- 🧪 Tools Used: Python, Scikit-learn, Pandas
 
-## 🚀 How to Use:
-1. Upload both `Fake.csv` and `True.csv` in Colab
-2. Run the notebook to train the model
-3. Enter any news headline for prediction
+---
 
-## 🧠 Example:
+## ✅ Submission Info
+
+- Internship: MITS Virtual Internship 2025
+- Domain: Artificial Intelligence
+- Intern: Cristein Roger
